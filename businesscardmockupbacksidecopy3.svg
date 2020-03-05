@@ -12,14 +12,14 @@
 	.st6{fill:none;stroke:#000000;stroke-width:0.3549;stroke-miterlimit:10;}
 	.st7{fill:none;}
 	.st8{font-family:'Gabriola';}
-	.st9{font-size:28px;}
+	.st9{font-size:24px;}
 	.st10{font-family:'BaskervilleURW-Reg';}
 	.st11{font-size:12px;}
 	.st12{font-size:11px;}
 	.st13{fill:#C9ADC9;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
 	.st14{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
 </style>
-<rect y="0" class="st0" width="220" height="390"/>
+<rect class="st0" width="220" height="390"/>
 <g>
 	<path class="st1" d="M26.3,341.3c0.9,0.9,0.9,3.6,1.8,3.6c12.7-0.9,27.2,3.6,39-0.9c2.7-10,0-20,1.8-30.8c0-2.7-0.9-4.5-0.9-7.3
 		c-0.9-0.9-2.7-1.8-3.6-1.8c-10.9,0-22.7-1.8-33.6-0.9c-1.8,0-4.5,2.7-4.5,4.5C27.2,318.7,25.4,330.4,26.3,341.3L26.3,341.3z"/>
@@ -49,8 +49,7 @@
 	<path class="st6" d="M68.8,244.1c-6.4,5.4-13.6,10-21.8,13.6c-6.4-5.4-13.6-10-20.9-13.6"/>
 </g>
 <rect x="92.8" y="27.1" class="st7" width="113.3" height="16.3"/>
-<text transform="matrix(1 0 0 1 32.2252 54.3609)" class="st8 st9">Gabrielle Romano</text>
-<rect x="115" y="47.6" class="st7" width="90.9" height="9.5"/>
+<text transform="matrix(1 0 0 1 40.0232 54.3608)" class="st8 st9">Gabrielle Romano</text>
 <text transform="matrix(1 0 0 1 66 85.196)" class="st10 st11">Graphic Designer </text>
 <rect x="143.8" y="66.6" class="st7" width="11" height="11.9"/>
 <text transform="matrix(1 0 0 1 104.9725 103.0685)" class="st10 st11">&amp;</text>
